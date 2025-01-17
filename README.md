@@ -6,7 +6,8 @@
 - **Father's Name**: Naeem Akhtar
 - **Section**: A
 - **BSCS**: Evening
-- **LinkedIn Profile**: [Muhammad Saad](https://www.linkedin.com/in/muhammad-saad-150390278/)
+- **LinkedIn Profile/Post**: [Muhammad Saad](https://www.linkedin.com/in/muhammad-saad-150390278/)
+  
 
 ## Submitted To
 
@@ -82,4 +83,5 @@ This project is a simple implementation of Stack and Queue data structures using
 - **Peek**: O(1)
 
 ---
-
+## Note
+- To check my linked in post Click on the link and goto activity
