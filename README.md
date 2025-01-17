@@ -14,30 +14,6 @@ This project is a simple implementation of Stack and Queue data structures using
 
 ---
 
-## How to Run the Program
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your_username/stack-queue-linkedlist.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd stack-queue-linkedlist
-   ```
-
-3. Run the Python file:
-
-   ```bash
-   python stack_queue.py
-   ```
-
-4. Follow the instructions in the terminal to test Stack and Queue operations.
-
----
-
 ## Features
 
 - **Stack Implementation**:
