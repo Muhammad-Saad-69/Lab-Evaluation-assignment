@@ -1,45 +1,69 @@
-#Implementation of Stack and Queue Using Linked List
+# Implementation of Stack and Queue Using Linked List
 
-Purpose of the Code
+## Submitted By
+- **Name**: Muhammad Saad
+- **Father's Name**: Naeem Akhtar
+
+---
+
+## Purpose of the Code
 
 This project is a simple implementation of Stack and Queue data structures using Linked Lists. It is created solely for the purpose of completing an academic assignment.
 
-#Features
+---
 
-Stack Implementation:
+## How to Run the Program
 
-Push operation
+1. Clone the repository:
 
-Pop operation
+   ```bash
+   git clone https://github.com/your_username/stack-queue-linkedlist.git
+   ```
 
-Peek operation
+2. Navigate to the project directory:
 
-Check if the stack is empty
+   ```bash
+   cd stack-queue-linkedlist
+   ```
 
-Queue Implementation:
+3. Run the Python file:
 
-Enqueue operation
+   ```bash
+   python stack_queue.py
+   ```
 
-Dequeue operation
+4. Follow the instructions in the terminal to test Stack and Queue operations.
 
-Peek operation
+---
 
-Check if the queue is empty
+## Features
+- **Stack Implementation**:
+  - Push operation
+  - Pop operation
+  - Peek operation
+  - Check if the stack is empty
 
-Time Complexity
+- **Queue Implementation**:
+  - Enqueue operation
+  - Dequeue operation
+  - Peek operation
+  - Check if the queue is empty
 
-Stack
+---
 
-Push: O(1)
+## Time Complexity
+### Stack
+- **Push**: O(1)
+- **Pop**: O(1)
+- **Peek**: O(1)
 
-Pop: O(1)
+### Queue
+- **Enqueue**: O(1)
+- **Dequeue**: O(1)
+- **Peek**: O(1)
 
-Peek: O(1)
+---
 
-Queue
+## Note
+This project was developed strictly for an academic assignment and may not adhere to production-level standards. It will be removed after submission.
 
-Enqueue: O(1)
-
-Dequeue: O(1)
-
-Peek: O(1)
