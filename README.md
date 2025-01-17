@@ -1,10 +1,10 @@
-Implementation of Stack and Queue Using Linked List
+#Implementation of Stack and Queue Using Linked List
 
 Purpose of the Code
 
 This project is a simple implementation of Stack and Queue data structures using Linked Lists. It is created solely for the purpose of completing an academic assignment.
 
-Features
+#Features
 
 Stack Implementation:
 
