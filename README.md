@@ -4,6 +4,8 @@
 
 - **Name**: Muhammad Saad
 - **Father's Name**: Naeem Akhtar
+- **Section**: A
+- **BSCS**: Evening
 - **LinkedIn Profile**: [Muhammad Saad](https://www.linkedin.com/in/muhammad-saad-150390278/)
 
 ## Purpose of the Code
